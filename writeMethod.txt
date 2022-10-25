@@ -1,0 +1,1 @@
+Hello I'm replaced with writeFile Method!
